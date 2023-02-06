@@ -1,0 +1,12 @@
+{
+  "name": "ejercicioeventos",
+  "version": "1.0.0",
+  "description": "Ejercicio correspondiente a la sesion de gestion de eventos del curso de Javascript de Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
